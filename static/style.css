@@ -69,5 +69,11 @@ a:hover {
     font-size: 0.9em;
     font-style: italic;
     margin-top: -10px;
+    margin-bottom: 6px;
+}
+
+.post-author {
+    color: #666;
+    font-size: 0.95em;
     margin-bottom: 20px;
 }
