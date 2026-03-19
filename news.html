@@ -1,0 +1,20 @@
+---
+layout: base
+title: Appel Community News
+---
+
+<div class="content">
+    <h1>Appel Community News</h1>
+    <p>
+        This page is for news about the Appel community, such as new level releases, new tools, and other
+        important announcements.
+    </p>
+    {% for post in site.posts %}
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.excerpt }}</p>
+        <p><a href="{{ post.url }}">Read more</a></p>
+    {% endfor %}
+    <p>
+        You can also subscribe to the Appel news RSS feed here: <a href="/feed.xml">Appel Community News RSS Feed</a>
+    </p>
+</div>
