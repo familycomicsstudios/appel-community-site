@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-03-18
+date: 2026-03-18 00:00:00 -0500
 title: Welcome to Appel News!
 author: Themadpunter
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-03-18
+date: 2025-03-18 19:00:00 -0500
 title: Level of the Week No. 9
 author: Themadpunter
 ---
