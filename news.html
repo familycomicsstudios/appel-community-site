@@ -12,7 +12,7 @@ title: Appel Community News
     <p>
         You can also subscribe to the Appel news RSS feed here: <a href="/feed.xml">Appel Community News RSS Feed</a>
     </p>
-    {% for post in site.posts %}
+    {% for post in site.posts reversed %}
         <div class="news-post">
             <h2>{{ post.title }}</h2>
             <p>{{ post.excerpt }}</p>

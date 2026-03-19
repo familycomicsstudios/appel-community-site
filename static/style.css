@@ -22,12 +22,12 @@ body {
 }
 
 .content h1 {
-    color: #333;
+    color: #000000;
     margin-bottom: 20px;
 }
 
 .content p {
-    color: #666;
+    color: #222222;
     line-height: 1.6;
 }
 

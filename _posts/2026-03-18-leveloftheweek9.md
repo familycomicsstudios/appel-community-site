@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-03-18
-title: Welcome to Appel News!
+title: Level of the Week No. 9
 author: Themadpunter
 ---
 
