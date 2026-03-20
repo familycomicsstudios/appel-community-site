@@ -35,6 +35,10 @@ p {
     padding-bottom: 15px;
 }
 
+li {
+    padding-bottom: 15px;
+}
+
 p.link {
     padding-bottom: 8px;
 }
@@ -44,6 +48,7 @@ h2 {
 }
 
 h3 {
+    padding-top: 10px;
     padding-bottom: 10px;
 }
 
