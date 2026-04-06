@@ -1,11 +1,12 @@
 title: Appel Community Site
-description: A website for the game Appel, a game made on Scratch by Griffpatch, and its community.
-keywords: appel, platformer, scratch, community
+description: Appel community hub for the Appel game on Scratch by Griffpatch, with news, guides, resources, and community links.
+keywords: appel, appel game, appel scratch, appel game scratch, scratch platformer, griffpatch, appel community
 author: Themadpunter
 url: https://appelgame.net
 og_image: https://appelgame.net/static/icon.png
 twitter_card: summary_large_image
 theme_color: "#ffffff"
+locale: en_US
 
 plugins:
   - jekyll-feed
